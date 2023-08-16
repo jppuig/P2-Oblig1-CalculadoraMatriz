@@ -1,5 +1,7 @@
 # MATRIZ - Obligatorio 1  - (Programación 2)
 
+### Este README hace referencia al pdf que se encuentra en el repositorio el cual es el original.
+
 ## PARTE 1)
 
 Se desea implementar en Java la clase Matriz que tiene como atributo una matriz de trabajo de enteros y ofrezca diferentes métodos sobre dicha matriz numérica:
